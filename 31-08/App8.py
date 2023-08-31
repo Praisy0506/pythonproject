@@ -1,0 +1,7 @@
+getValue = input("Enter the Name")
+print("My name : ",getValue)
+getMarks1 = input("Enter the Marks1")
+getMarks2 = input("Enter the Marks2")
+getMarks1 = int(getMarks1)
+getMarks2 = int(getMarks2)
+print(getMarks1+getMarks2)
